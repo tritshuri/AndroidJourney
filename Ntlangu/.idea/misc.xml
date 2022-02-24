@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/drawable/light_back_yellow10.xml" value="0.136" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/drawable/round_back_green10.xml" value="0.2195" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/drawable/round_back_green20.xml" value="0.2195" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/drawable/round_back_red10.xml" value="0.2195" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/drawable/round_back_stroke10.xml" value="0.2195" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/drawable/round_back_white10.xml" value="0.2195" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/drawable/round_back_white_stroke10.xml" value="0.2195" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/drawable/round_back_white_stroke2_10.xml" value="0.136" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw320dp-land/activity_main.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw320dp-land/activity_quiz.xml" value="0.6475" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw320dp-port/activity_quiz.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw320dp-port/activity_quiz_results.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw360dp-land/activity_quiz.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw480dp-land/activity_main.xml" value="0.32375" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw480dp-land/activity_quiz.xml" value="0.505859375" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw480dp-port/activity_main.xml" value="0.3275" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw480dp-port/activity_quiz.xml" value="0.33" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw480dp-port/activity_quiz_results.xml" value="0.1" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw480dp/activity_main.xml" value="0.505859375" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw600dp-land/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw600dp-land/activity_quiz.xml" value="0.1" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw600dp-port/activity_main.xml" value="0.2046875" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-sw600dp-port/activity_quiz.xml" value="0.22" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout-w600dp-port/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout/activity_questions_list.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout/activity_quiz.xml" value="0.9" />
+        <entry key="..\:/Users/Huey/AndroidStudioProjects/Ntlangu/app/src/main/res/layout/activity_quiz_results.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
