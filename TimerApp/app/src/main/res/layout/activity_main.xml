@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/heartImgView"
+        android:layout_width="402dp"
+        android:layout_height="731dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/yellow_heart"
+        android:contentDescription="A yellow heart"
+        />
+
+    <TextView
+        android:id="@+id/timeView"
+        android:layout_width="175dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="284dp"
+        android:text="00:00"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/heartImgView" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="121dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="48dp"
+        android:text="Start"
+        android:onClick="startTimer"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/timeView"
+        app:layout_constraintVertical_bias="0.0" />
+    <Button
+        android:id="@+id/stopButton"
+        android:layout_width="121dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="48dp"
+        android:text="Stop"
+        android:onClick="stopTimer"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/timeView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <SeekBar
+        android:id="@+id/DurationSeekBar"
+        android:layout_width="370dp"
+        android:layout_height="29dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/timeView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.39"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.063" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

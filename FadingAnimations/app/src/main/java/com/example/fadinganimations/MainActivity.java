@@ -14,15 +14,19 @@ public class MainActivity extends AppCompatActivity {
         ImageView imageView = findViewById(R.id.rileyView);
         ImageView imageView2 = findViewById(R.id.hueyView);
         if (hueyIsShowing){
+
             imageView.animate().alpha(0).setDuration(2000);
             imageView2.animate().alpha(1).setDuration(2000);
+
             hueyIsShowing=false;
             Toast.makeText(this, "Riley Pic has been pressed", Toast.LENGTH_SHORT).show();
         }
         else{
+            imageView.animate().rotation(3600);
             imageView2.animate().alpha(0).setDuration(2000);
             imageView.animate().alpha(1).setDuration(2000);
-            imageView.animate().translationYBy(100).setDuration(2022);
+
+            imageView.animate().translationYBy(1000).setDuration(2022);
 
             hueyIsShowing=true;
             Toast.makeText(this, "Huey Pic has been pressed", Toast.LENGTH_SHORT).show();
